@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575145747 source:c:\users\hshaik24\documents\comp sci\lab10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+
+1575146104 c:\users\hshaik24\documents\comp sci\lab10\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"nodeUtil.h"
+	"createLink.h"
+	"printLink.h"
+	"releaseLinks.h"
+
+1574375397 c:\users\hshaik24\documents\comp sci\lab10\nodeutil.h
+
+1575146348 c:\users\hshaik24\documents\comp sci\lab10\createlink.h
+	<time.h>
+	"definitions.h"
+
+1575145558 c:\users\hshaik24\documents\comp sci\lab10\printlink.h
+
+1575146264 c:\users\hshaik24\documents\comp sci\lab10\releaselinks.h
+

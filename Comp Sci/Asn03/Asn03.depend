@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1572300865 source:c:\users\hshaik24\documents\comp sci\asn03\main.c
+	"header.h"
+
+1572299182 c:\users\hshaik24\documents\comp sci\asn03\header.h
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+	"utilities.h"
+	"selectionSort.h"
+	"insertionSort.h"
+	"bubbleSort.h"
+
+1572301319 c:\users\hshaik24\documents\comp sci\asn03\definitions.h
+
+1572301418 c:\users\hshaik24\documents\comp sci\asn03\utilities.h
+
+1572301322 c:\users\hshaik24\documents\comp sci\asn03\selectionsort.h
+
+1572299951 c:\users\hshaik24\documents\comp sci\asn03\insertionsort.h
+
+1572299248 c:\users\hshaik24\documents\comp sci\asn03\bubblesort.h
+

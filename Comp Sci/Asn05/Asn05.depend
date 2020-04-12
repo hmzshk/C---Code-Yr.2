@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1575413422 source:c:\users\hshaik24\documents\comp sci\asn05\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+	"CreateNode.h"
+	"printList.h"
+	"CreateList.h"
+	"releaseMemory.h"
+	"sort.h"
+	"CMON.h"
+	"insertLink1.h"
+
+1575146672 c:\users\hshaik24\documents\comp sci\asn05\definitions.h
+
+1575146672 c:\users\hshaik24\documents\comp sci\asn05\createnode.h
+
+1575409835 c:\users\hshaik24\documents\comp sci\asn05\printlist.h
+
+1575404055 c:\users\hshaik24\documents\comp sci\asn05\bubblesort.h
+
+1575260543 c:\users\hshaik24\documents\comp sci\asn05\createlist.h
+	<time.h>
+
+1575147155 c:\users\hshaik24\documents\comp sci\asn05\releasememory.h
+
+1575181549 c:\users\hshaik24\documents\comp sci\asn05\sort.h
+
+1575413321 c:\users\hshaik24\documents\comp sci\asn05\cmon.h
+
+1575346692 c:\users\hshaik24\documents\comp sci\asn05\insertlink.h
+
+1575351073 c:\users\hshaik24\documents\comp sci\asn05\insertlink1.h
+	"definitions.h"
+	"CreateNode.h"
+

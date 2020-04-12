@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573964459 source:c:\users\hshaik24\documents\comp sci\hshaik24_asn04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+	"createNode.h"
+	"bubbleSort.h"
+
+1573963198 c:\users\hshaik24\documents\comp sci\hshaik24_asn04\definitions.h
+
+1573935116 c:\users\hshaik24\documents\comp sci\hshaik24_asn04\createnode.h
+
+1573964591 c:\users\hshaik24\documents\comp sci\hshaik24_asn04\bubblesort.h
+

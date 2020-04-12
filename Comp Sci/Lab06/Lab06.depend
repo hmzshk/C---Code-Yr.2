@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1571352181 source:c:\users\hshaik24\documents\comp sci\lab06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1571352176 c:\users\hshaik24\documents\comp sci\lab06\headers.h
+	"definitions.h"
+	"compute.h"
+
+1571352178 c:\users\hshaik24\documents\comp sci\lab06\definitions.h
+
+1571352179 c:\users\hshaik24\documents\comp sci\lab06\compute.h
+
